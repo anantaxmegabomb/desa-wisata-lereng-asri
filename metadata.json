@@ -1,0 +1,6 @@
+{
+  "name": "Desa Wisata Lereng Asri",
+  "description": "Website mobile-first Desa Wisata Lereng Asri untuk calon wisatawan: beranda, daftar destinasi, paket wisata dan harga, galeri, pemesanan via WhatsApp, serta peta lokasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
